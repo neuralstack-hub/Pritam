@@ -40,11 +40,11 @@ class PritamB:
 
 ### GitHub Stats
 
-![Pritam's GitHub stats](https://github-readme-stats.vercel.app/api?username=neuralstack-hub&show_icons=true&theme=tokyonight&hide_border=true)
+![Pritam's GitHub stats](https://github-readme-stats.vercel.app/api?username=neuralstack-hub&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neuralstack-hub&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neuralstack-hub&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=neuralstack-hub&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=neuralstack-hub&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
