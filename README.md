@@ -4,8 +4,8 @@
 ╔══════════════════════════════════════════════════════════╗
 ║                                                          ║
 ║   > SYSTEM BOOT...                                       ║
-║   > LOADING PROFILE: DheerajB                           ║
-║   > STATUS: ONLINE ██████████ 100%                      ║
+║   > LOADING PROFILE: Pritam B                            ║
+║   > STATUS: ONLINE ██████████ 100%                       ║
 ║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
 ```
@@ -21,13 +21,13 @@
 ### 🧑‍💻 About Me
 
 ```python
-class Dheeraj:
+class Pritam:
     location    = "Hutagalli, Karnataka 🇮🇳"
-    university  = "VTU (Visvesvaraya Technological University)"
+    university  = "NIE (The National Institute of Engineering)"
     focus       = ["AI/ML", "Competitive Programming", "Cloud"]
-    currently   = "Preparing for GATE — Data Science & AI"
+    currently   = "Focusing on Programming"
     learning    = ["RAG & LLMs", "Quantum Computing", "DevOps"]
-    hobbies     = ["Gaming 🎮", "K-Dramas 📺", "Homelab 🖥️"]
+    hobbies     = ["Gaming 🎮", "Programming", "Homelab 🖥️"]
     fun_fact    = "I debug in coffee shops ☕"
 ```
 
@@ -98,7 +98,6 @@ class Dheeraj:
 ### 🔭 Current Focus
 
 ```
-🎯  GATE 2025 — Data Science & AI Track
 ⚛️  Exploring Quantum Computing Fundamentals
 🤖  Building RAG Pipelines & LLM Applications
 ☁️  Cloud Infrastructure & Containerization
