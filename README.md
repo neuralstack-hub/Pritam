@@ -1,127 +1,64 @@
 <div align="center">
 
-```
+```text
 ╔══════════════════════════════════════════════════════════╗
 ║                                                          ║
 ║   > SYSTEM BOOT...                                       ║
 ║   > LOADING PROFILE: Pritam B                            ║
-║   > STATUS: ONLINE ██████████ 100%                       ║
+║   > STATUS: ONLINE ██████████ 100%                      ║
 ║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
 ```
 
-[
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=22&duration=3000&pause=500&color=00BFFF&center=true&width=700&lines=Hey!+I'm+Pritam+B+%F0%9F%91%8B;AI+enthusiast+from+Mysore;Building+multimodal+healthcare+solutions;Learning+and+shipping+one+project+at+a+time)](https://git.io/typing-svg)
 
 </div>
 
-***
+---
 
-<img align="right" alt="coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
-
-### 🧑‍💻 About Me
+### About Me
 
 ```python
-class Pritam:
-    location    = "Hutagalli, Karnataka 🇮🇳"
-    university  = "NIE (The National Institute of Engineering)"
-    focus       = ["AI/ML", "Competitive Programming", "Cloud"]
-    currently   = "Focusing on Programming"
-    learning    = ["RAG & LLMs", "Quantum Computing", "DevOps"]
-    hobbies     = ["Gaming 🎮", "Programming", "Homelab 🖥️"]
-    fun_fact    = "I debug in coffee shops ☕"
+class PritamB:
+    name = "Pritam B"
+    location = "Mysore, Karnataka, India"
+    education = "The National Institute Of Engineering, Mysore"
+    github = "neuralstack-hub"
+    interests = ["AI", "Machine Learning", "Healthcare AI"]
+    current_build = "Multimodal healthcare solution"
 ```
 
-<br clear="right"/>
+---
 
-***
+### Tech Stack
 
-### 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-**Languages**
+---
 
+### GitHub Stats
 
+![Pritam's GitHub stats](https://github-readme-stats.vercel.app/api?username=neuralstack-hub&show_icons=true&theme=tokyonight&hide_border=true)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neuralstack-hub&layout=compact&theme=tokyonight&hide_border=true)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=neuralstack-hub&theme=tokyonight&hide_border=true)
 
+---
 
-**AI / ML**
+### Connect
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pritam%20B-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pritam-b-7035522ab)
+[![GitHub](https://img.shields.io/badge/GitHub-neuralstack--hub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/neuralstack-hub)
 
-
-
-
-
-**Cloud & DevOps**
-
-
-
-
-
-
-**Tools**
-
-
-
-
-
-
-***
-
-### 📊 GitHub Stats
+---
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.shion.dev/api?username=Pritam B&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Pritam B&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
+![Profile Views](https://komarev.com/ghpvc/?username=neuralstack-hub&color=0e75b6&style=flat)
 
-</div>
-
-<div align="center">
-
-
-
-</div>
-
-***
-
-### 🏆 Competitive Programming
-
-<div align="center">
-
-[
-[
-
-</div>
-
-***
-
-### 🔭 Current Focus
-
-```
-⚛️  Exploring Quantum Computing Fundamentals
-🤖  Building RAG Pipelines & LLM Applications
-☁️  Cloud Infrastructure & Containerization
-🧠  AI Agents & Automation Systems
-```
-
-***
-
-### 📫 Connect With Me
-
-<div align="center">
-
-[
-[
-[
-
-</div>
-
-***
-
-<div align="center">
-
-
-
-*"The best way to predict the future is to build it."* ⚡
+An AI enthusiast building a multimodal healthcare solution.
 
 </div>
