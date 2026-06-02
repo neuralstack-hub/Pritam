@@ -71,8 +71,8 @@ class Pritam:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.shion.dev/api?username=DheerajB&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=DheerajB&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
+<img height="180em" src="https://github-readme-stats.shion.dev/api?username=Pritam B&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Pritam B&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
 
 </div>
 
