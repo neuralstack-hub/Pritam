@@ -1,64 +1,66 @@
-<div align="center">
+<h1 align="center">Hi, I'm Pritam B 👋</h1>
 
-```text
-╔══════════════════════════════════════════════════════════╗
-║                                                          ║
-║   > SYSTEM BOOT...                                       ║
-║   > LOADING PROFILE: Pritam B                            ║
-║   > STATUS: ONLINE ██████████ 100%                      ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
-```
+<p align="center">
+AI/ML enthusiast from Mysore, India • Building practical healthcare-focused intelligent systems
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=22&duration=3000&pause=500&color=00BFFF&center=true&width=700&lines=Hey!+I'm+Pritam+B+%F0%9F%91%8B;AI+enthusiast+from+Mysore;Building+multimodal+healthcare+solutions;Learning+and+shipping+one+project+at+a+time)](https://git.io/typing-svg)
-
-</div>
-
----
-
-### About Me
-
-```python
-class PritamB:
-    name = "Pritam B"
-    location = "Mysore, Karnataka, India"
-    education = "The National Institute Of Engineering, Mysore"
-    github = "neuralstack-hub"
-    interests = ["AI", "Machine Learning", "Healthcare AI"]
-    current_build = "Multimodal healthcare solution"
-```
+<p align="center">
+  <a href="https://github.com/neuralstack-hub">
+    <img src="https://komarev.com/ghpvc/?username=neuralstack-hub&color=0e75b6&style=flat" alt="Profile views" />
+  </a>
+  <a href="https://www.linkedin.com/in/pritam-b-7035522ab">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+</p>
 
 ---
 
-### Tech Stack
+## About Me
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-### GitHub Stats
-
-![Pritam's GitHub stats](https://github-readme-stats.vercel.app/api?username=neuralstack-hub&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neuralstack-hub&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=neuralstack-hub&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+- 🎓 Student at **The National Institute Of Engineering, Mysore**
+- 🤖 Interested in **AI, Machine Learning, and Healthcare AI**
+- 🛠️ Currently building a **multimodal healthcare solution**
+- 🌱 Focused on learning by building useful, real-world projects
+- 📌 Open to collaboration on AI-driven and socially impactful projects
 
 ---
 
-### Connect
+## Tech I Work With
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pritam%20B-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pritam-b-7035522ab)
-[![GitHub](https://img.shields.io/badge/GitHub-neuralstack--hub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/neuralstack-hub)
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 ---
 
-<div align="center">
+## Current Focus
 
-![Profile Views](https://komarev.com/ghpvc/?username=neuralstack-hub&color=0e75b6&style=flat)
+- Building AI systems for healthcare use cases
+- Exploring multimodal models and applied ML
+- Improving project quality, documentation, and deployment workflows
 
-An AI enthusiast building a multimodal healthcare solution.
+---
 
-</div>
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=neuralstack-hub&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neuralstack-hub&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=neuralstack-hub&theme=tokyonight&hide_border=true" height="160" />
+</p>
+
+---
+
+## Connect
+
+- LinkedIn: [pritam-b-7035522ab](https://www.linkedin.com/in/pritam-b-7035522ab)
+- GitHub: [neuralstack-hub](https://github.com/neuralstack-hub)
+
+---
+
+> “Building intelligent systems that can create real-world impact.”
